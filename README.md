@@ -10,9 +10,9 @@ Lead Instructor:
 - Justin Kinney (<jkinney@cshl.edu>), Associate Professor
 
 Schedule:
-- Day 1: Monday, 29 August 2022, 10am - 5pm, Hershey East Room, Hershey Building
-- Day 2: Tuesday, 30 August 2022, 10am - 5pm, Hershey East Room, Hershey Building
-- Day 3: Wednesday, 31 August 2022, 2pm - 5pm, Hershey East Room, Hershey Building
+- Day 1: Monday, 29 August 2022, 10am - 5pm, Bush Hall, Fireplace Room
+- Day 2: Tuesday, 30 August 2022, 10am - 5pm, Bush Hall, Fireplace Room
+- Day 3: Wednesday, 31 August 2022, 2pm - 5pm, Bush Hall, Fireplace Room
 
 ## Installing Python 3.8 
 
