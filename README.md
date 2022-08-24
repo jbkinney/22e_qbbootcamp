@@ -14,7 +14,7 @@ Schedule:
 - Day 2: Tuesday, 30 August 2022, 10am - 5pm, Bush Hall, Fireplace Room
 - Day 3: Wednesday, 31 August 2022, 2pm - 5pm, Bush Hall, Fireplace Room
 
-## Installing Python 3.8 
+## Installing Python 3.9 
 
 Students are asked to install the Anaconda distribution of Python 3.9, on their own computers. This is available at https://www.anaconda.com/products/distribution. 
 
