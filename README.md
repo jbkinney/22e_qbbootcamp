@@ -22,7 +22,7 @@ Students are asked to install the Anaconda distribution of Python 3.9, on their 
 
 Students with Windows laptops must also install the "Git BASH" tool to prepare for the Bootcamp. You can download it by going to https://gitforwindows.org and clicking the Download button. The installation asks many questions but fortunately provides default answers that work well for the course.
 
-We will use GitBash for the "The Unix command line" section.
+We will use GitBash for the "The Unix command line" section and for logging into Elzar, the high-performance computing cluster on campus.
 
 ## Elzar exercise
 
